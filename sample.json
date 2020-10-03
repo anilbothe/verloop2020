@@ -1,0 +1,986 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": "true",
+            "key": "6mM5giON9W4CYjn1EKIA",
+            "method": "book_show"
+        },
+        "book": {
+            "id": "12177850",
+            "title": "A Song of Ice and Fire (A Song of Ice and Fire, #1-5)",
+            "isbn": "1780484259",
+            "isbn13": "9781780484259",
+            "asin": null,
+            "kindle_asin": "B007B5EDEG",
+            "marketplace_id": "A21TJRUUN4KGV",
+            "country_code": "IN",
+            "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1339340118l/12177850._SX98_.jpg",
+            "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1339340118l/12177850._SX50_.jpg",
+            "publication_year": "2011",
+            "publication_month": "7",
+            "publication_day": "22",
+            "publisher": "Zatpix",
+            "language_code": "eng",
+            "is_ebook": "false",
+            "description": "For the first time, all five novels in the epic fantasy series that inspired HBO's \"Game of Thrones \"are together in one boxed set. An immersive entertainment experience unlike any other, A Song of Ice and Fire has earned George R. R. Martin--dubbed \"the American Tolkien\" by \"Time\" magazine--international acclaim and millions of loyal readers. Now here is the entire monumental cycle: <br />A GAME OF THRONES<br />A CLASH OF KINGS<br />A STORM OF SWORDS<br />A FEAST OF CROWS<br />A DANCE WITH DRAGONS<br /> Winter is coming. Such is the stern motto of House Stark, the northernmost of the fiefdoms that owe allegiance to King Robert Baratheon in far-off King's Landing. There Eddard Stark of Winterfell rules in Robert's name. There his family dwells in peace and comfort: his proud wife, Catelyn; his sons Robb, Brandon, and Rickon; his daughters Sansa and Arya; and his bastard son, Jon Snow. Far to the north, behind the towering Wall, lie savage Wildings and worse--unnatural things relegated to myth during the centuries-long summer, but proving all too real and all too deadly in the turning of the season. <br /> Yet a more immediate threat lurks to the south, where Jon Arryn, the Hand of the King, has died under mysterious circumstances. Now Robert is riding north to Winterfell, bringing his queen, the lovely but cold Cersei, his son, the cruel, vainglorious Prince Joffrey, and the queen's brothers Jaime and Tyrion of the powerful and wealthy House Lannister--the first a swordsman without equal, the second a dwarf whose stunted stature belies a brilliant mind. All are heading for Winterfell and a fateful encounter that will change the course of kingdoms. <br /> Meanwhile, across the Narrow Sea, Prince Viserys, heir of the fallen House Targaryen, which once ruled all of Westeros, schemes to reclaim the throne with an army of barbarian Dothraki--whose loyalty he will purchase in the only coin left to him: his beautiful yet innocent sister, Daenerys.<br />\"",
+            "work": {
+                "id": {
+                    "@type": "integer",
+                    "#text": "21619530"
+                },
+                "books_count": {
+                    "@type": "integer",
+                    "#text": "31"
+                },
+                "best_book_id": {
+                    "@type": "integer",
+                    "#text": "12177850"
+                },
+                "reviews_count": {
+                    "@type": "integer",
+                    "#text": "101396"
+                },
+                "ratings_sum": {
+                    "@type": "integer",
+                    "#text": "240368"
+                },
+                "ratings_count": {
+                    "@type": "integer",
+                    "#text": "52577"
+                },
+                "text_reviews_count": {
+                    "@type": "integer",
+                    "#text": "1617"
+                },
+                "original_publication_year": {
+                    "@type": "integer",
+                    "#text": "2000"
+                },
+                "original_publication_month": {
+                    "@type": "integer",
+                    "@nil": "true"
+                },
+                "original_publication_day": {
+                    "@type": "integer",
+                    "@nil": "true"
+                },
+                "original_title": "A Song of Ice and Fire",
+                "original_language_id": {
+                    "@type": "integer",
+                    "@nil": "true"
+                },
+                "media_type": "book",
+                "rating_dist": "5:36603|4:11517|3:3008|2:812|1:637|total:52577",
+                "desc_user_id": {
+                    "@type": "integer",
+                    "#text": "66648866"
+                },
+                "default_chaptering_book_id": {
+                    "@type": "integer",
+                    "@nil": "true"
+                },
+                "default_description_language_code": {
+                    "@nil": "true"
+                },
+                "work_uri": "kca://work/amzn1.gr.work.v1.suAlKK9TGKCe9iKsV0n2dA"
+            },
+            "average_rating": "4.57",
+            "num_pages": "5216",
+            "format": "Mass Market Paperback",
+            "edition_information": "Re-Packaged Edition",
+            "ratings_count": "27708",
+            "text_reviews_count": "1196",
+            "url": "https://www.goodreads.com/book/show/12177850-a-song-of-ice-and-fire",
+            "link": "https://www.goodreads.com/book/show/12177850-a-song-of-ice-and-fire",
+            "authors": {
+                "author": {
+                    "id": "346732",
+                    "name": "George R.R. Martin",
+                    "role": null,
+                    "image_url": {
+                        "@nophoto": "true",
+                        "#text": "https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png"
+                    },
+                    "small_image_url": {
+                        "@nophoto": "true",
+                        "#text": "https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png"
+                    },
+                    "link": "https://www.goodreads.com/author/show/346732.George_R_R_Martin",
+                    "average_rating": "4.37",
+                    "ratings_count": "5614996",
+                    "text_reviews_count": "198463"
+                }
+            },
+            "reviews_widget": "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom: 0;\n }\n  #goodreads-widget a {\n text-decoration: none;\n    color:#660;\n }\n  iframe{\n    background-color: #fff;\n }\n  #goodreads-widget a:hover { text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n    text-align: right;\n }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\">\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/12177850-a-song-of-ice-and-fire\">A Song of Ice and Fire Reviews</a></h1></div>\n  <iframe id=\"the_iframe\" src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1780484259&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\" width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\">\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" href=\"https://www.goodreads.com/book/show/12177850-a-song-of-ice-and-fire?utm_medium=api&amp;utm_source=reviews_widget\">Reviews from Goodreads.com</a>\n  </div>\n</div>",
+                "popular_shelves": {
+                    "shelf": [
+                        {
+                            "@name": "to-read",
+                            "@count": "26630"
+                        },
+                        {
+                            "@name": "currently-reading",
+                            "@count": "14026"
+                        },
+                        {
+                            "@name": "fantasy",
+                            "@count": "855"
+                        },
+                        {
+                            "@name": "favorites",
+                            "@count": "516"
+                        },
+                        {
+                            "@name": "fiction",
+                            "@count": "262"
+                        },
+                        {
+                            "@name": "owned",
+                            "@count": "178"
+                        },
+                        {
+                            "@name": "kindle",
+                            "@count": "105"
+                        },
+                        {
+                            "@name": "books-i-own",
+                            "@count": "91"
+                        },
+                        {
+                            "@name": "series",
+                            "@count": "76"
+                        },
+                        {
+                            "@name": "default",
+                            "@count": "64"
+                        },
+                        {
+                            "@name": "game-of-thrones",
+                            "@count": "60"
+                        },
+                        {
+                            "@name": "favourites",
+                            "@count": "49"
+                        },
+                        {
+                            "@name": "my-books",
+                            "@count": "40"
+                        },
+                        {
+                            "@name": "owned-books",
+                            "@count": "38"
+                        },
+                        {
+                            "@name": "sci-fi-fantasy",
+                            "@count": "32"
+                        },
+                        {
+                            "@name": "my-library",
+                            "@count": "31"
+                        },
+                        {
+                            "@name": "ebook",
+                            "@count": "30"
+                        },
+                        {
+                            "@name": "ebooks",
+                            "@count": "25"
+                        },
+                        {
+                            "@name": "adventure",
+                            "@count": "24"
+                        },
+                        {
+                            "@name": "george-r-r-martin",
+                            "@count": "24"
+                        },
+                        {
+                            "@name": "novels",
+                            "@count": "21"
+                        },
+                        {
+                            "@name": "library",
+                            "@count": "20"
+                        },
+                        {
+                            "@name": "dragons",
+                            "@count": "20"
+                        },
+                        {
+                            "@name": "to-buy",
+                            "@count": "19"
+                        },
+                        {
+                            "@name": "scifi-fantasy",
+                            "@count": "19"
+                        },
+                        {
+                            "@name": "abandoned",
+                            "@count": "19"
+                        },
+                        {
+                            "@name": "fantasy-sci-fi",
+                            "@count": "18"
+                        },
+                        {
+                            "@name": "sci-fi",
+                            "@count": "18"
+                        },
+                        {
+                            "@name": "epic-fantasy",
+                            "@count": "18"
+                        },
+                        {
+                            "@name": "kindle-books",
+                            "@count": "17"
+                        },
+                        {
+                            "@name": "a-song-of-ice-and-fire",
+                            "@count": "16"
+                        },
+                        {
+                            "@name": "epic",
+                            "@count": "16"
+                        },
+                        {
+                            "@name": "adult",
+                            "@count": "16"
+                        },
+                        {
+                            "@name": "i-own",
+                            "@count": "16"
+                        },
+                        {
+                            "@name": "high-fantasy",
+                            "@count": "15"
+                        },
+                        {
+                            "@name": "historical-fiction",
+                            "@count": "15"
+                        },
+                        {
+                            "@name": "books-i-have",
+                            "@count": "15"
+                        },
+                        {
+                            "@name": "home-library",
+                            "@count": "14"
+                        },
+                        {
+                            "@name": "tbr",
+                            "@count": "14"
+                        },
+                        {
+                            "@name": "science-fiction",
+                            "@count": "14"
+                        },
+                        {
+                            "@name": "e-books",
+                            "@count": "14"
+                        },
+                        {
+                            "@name": "all-time-favorites",
+                            "@count": "14"
+                        },
+                        {
+                            "@name": "english",
+                            "@count": "13"
+                        },
+                        {
+                            "@name": "favorite-books",
+                            "@count": "13"
+                        },
+                        {
+                            "@name": "fantasy-fiction",
+                            "@count": "12"
+                        },
+                        {
+                            "@name": "have",
+                            "@count": "12"
+                        },
+                        {
+                            "@name": "literature",
+                            "@count": "12"
+                        },
+                        {
+                            "@name": "e-book",
+                            "@count": "12"
+                        },
+                        {
+                            "@name": "audio_wanted",
+                            "@count": "11"
+                        },
+                        {
+                            "@name": "personal-library",
+                            "@count": "11"
+                        },
+                        {
+                            "@name": "dnf",
+                            "@count": "11"
+                        },
+                        {
+                            "@name": "collection",
+                            "@count": "11"
+                        },
+                        {
+                            "@name": "magic",
+                            "@count": "11"
+                        },
+                        {
+                            "@name": "my-bookshelf",
+                            "@count": "10"
+                        },
+                        {
+                            "@name": "grrm",
+                            "@count": "10"
+                        },
+                        {
+                            "@name": "on-hold",
+                            "@count": "10"
+                        },
+                        {
+                            "@name": "own-it",
+                            "@count": "10"
+                        },
+                        {
+                            "@name": "finished",
+                            "@count": "10"
+                        },
+                        {
+                            "@name": "drama",
+                            "@count": "10"
+                        },
+                        {
+                            "@name": "adult-fiction",
+                            "@count": "10"
+                        },
+                        {
+                            "@name": "asoiaf",
+                            "@count": "9"
+                        },
+                        {
+                            "@name": "must-read",
+                            "@count": "9"
+                        },
+                        {
+                            "@name": "fiction-fantasy",
+                            "@count": "9"
+                        },
+                        {
+                            "@name": "war",
+                            "@count": "9"
+                        },
+                        {
+                            "@name": "on-my-shelf",
+                            "@count": "9"
+                        },
+                        {
+                            "@name": "books-owned",
+                            "@count": "9"
+                        },
+                        {
+                            "@name": "didn-t-finish",
+                            "@count": "9"
+                        },
+                        {
+                            "@name": "novel",
+                            "@count": "9"
+                        },
+                        {
+                            "@name": "faves",
+                            "@count": "9"
+                        },
+                        {
+                            "@name": "purchased",
+                            "@count": "9"
+                        },
+                        {
+                            "@name": "got",
+                            "@count": "9"
+                        },
+                        {
+                            "@name": "paperback",
+                            "@count": "9"
+                        },
+                        {
+                            "@name": "unread",
+                            "@count": "8"
+                        },
+                        {
+                            "@name": "amazon",
+                            "@count": "8"
+                        },
+                        {
+                            "@name": "best-books",
+                            "@count": "8"
+                        },
+                        {
+                            "@name": "nook",
+                            "@count": "8"
+                        },
+                        {
+                            "@name": "books",
+                            "@count": "8"
+                        },
+                        {
+                            "@name": "contemporary",
+                            "@count": "8"
+                        },
+                        {
+                            "@name": "books-we-own",
+                            "@count": "7"
+                        },
+                        {
+                            "@name": "george-rr-martin",
+                            "@count": "7"
+                        },
+                        {
+                            "@name": "stopped-reading",
+                            "@count": "7"
+                        },
+                        {
+                            "@name": "on-my-bookshelf",
+                            "@count": "7"
+                        },
+                        {
+                            "@name": "favourite",
+                            "@count": "7"
+                        },
+                        {
+                            "@name": "audio-books",
+                            "@count": "7"
+                        },
+                        {
+                            "@name": "gave-up",
+                            "@count": "7"
+                        },
+                        {
+                            "@name": "home",
+                            "@count": "7"
+                        },
+                        {
+                            "@name": "fantasy-scifi",
+                            "@count": "7"
+                        },
+                        {
+                            "@name": "favs",
+                            "@count": "7"
+                        },
+                        {
+                            "@name": "science-fiction-fantasy",
+                            "@count": "7"
+                        },
+                        {
+                            "@name": "audiobooks",
+                            "@count": "7"
+                        },
+                        {
+                            "@name": "unfinished",
+                            "@count": "6"
+                        },
+                        {
+                            "@name": "own-physical",
+                            "@count": "6"
+                        },
+                        {
+                            "@name": "my-collection",
+                            "@count": "6"
+                        },
+                        {
+                            "@name": "owned-to-read",
+                            "@count": "6"
+                        },
+                        {
+                            "@name": "bookshelf",
+                            "@count": "6"
+                        },
+                        {
+                            "@name": "on-kindle",
+                            "@count": "6"
+                        },
+                        {
+                            "@name": "song-of-ice-and-fire",
+                            "@count": "6"
+                        },
+                        {
+                            "@name": "omnibus",
+                            "@count": "6"
+                        },
+                        {
+                            "@name": "bundle",
+                            "@count": "6"
+                        },
+                        {
+                            "@name": "want-to-read",
+                            "@count": "6"
+                        }
+                    ]
+                },
+                "book_links": {
+                    "book_link": {
+                        "id": "8",
+                        "name": "Libraries",
+                        "link": "https://www.goodreads.com/book_link/follow/8"
+                    }
+                },
+                "buy_links": {
+                    "buy_link": [
+                        {
+                            "id": "1",
+                            "name": "Amazon",
+                            "link": "https://www.goodreads.com/book_link/follow/1"
+                        },
+                        {
+                            "id": "10",
+                            "name": "Audible",
+                            "link": "https://www.goodreads.com/book_link/follow/10"
+                        },
+                        {
+                            "id": "3",
+                            "name": "Barnes & Noble",
+                            "link": "https://www.goodreads.com/book_link/follow/3"
+                        },
+                        {
+                            "id": "1027",
+                            "name": "Walmart eBooks",
+                            "link": "https://www.goodreads.com/book_link/follow/1027"
+                        },
+                        {
+                            "id": "2102",
+                            "name": "Apple Books",
+                            "link": "https://www.goodreads.com/book_link/follow/2102"
+                        },
+                        {
+                            "id": "8036",
+                            "name": "Google Play",
+                            "link": "https://www.goodreads.com/book_link/follow/8036"
+                        },
+                        {
+                            "id": "4",
+                            "name": "Abebooks",
+                            "link": "https://www.goodreads.com/book_link/follow/4"
+                        },
+                        {
+                            "id": "882",
+                            "name": "Book Depository",
+                            "link": "https://www.goodreads.com/book_link/follow/882"
+                        },
+                        {
+                            "id": "5",
+                            "name": "Alibris",
+                            "link": "https://www.goodreads.com/book_link/follow/5"
+                        },
+                        {
+                            "id": "9",
+                            "name": "Indigo",
+                            "link": "https://www.goodreads.com/book_link/follow/9"
+                        },
+                        {
+                            "id": "107",
+                            "name": "Better World Books",
+                            "link": "https://www.goodreads.com/book_link/follow/107"
+                        },
+                        {
+                            "id": "7",
+                            "name": "IndieBound",
+                            "link": "https://www.goodreads.com/book_link/follow/7"
+                        }
+                    ]
+                },
+                "series_works": {
+                    "series_work": {
+                        "id": "914241",
+                        "user_position": "1-5",
+                        "series": {
+                            "id": "43790",
+                            "title": "A Song of Ice and Fire",
+                            "description": "The series comprises one epic story that is still being written. It is intended to be complete in seven volumes, but the author has stated it could go on for longer.\n    \n    This series is also known as <a href=\"https://www.goodreads.com/series/105522\">As Cr\u00f3nicas de Gelo e Fogo</a> in Portuguese or \"Das Lied von Eis und Feuer\" in German, where the majority of the books are split into two parts and receive a separate numbering, while in the italian version, known as <a href=\"https://www.goodreads.com/series/104861\">Le Cronache del Ghiaccio e del Fuoco</a> the books are split into two or more parts and receive a separate numbering.\n    \n    Also available is a prequel series called <i><a href=\"http://www.goodreads.com/series/49615\">Tales of Dunk and Egg</a>,</i> and <i><a href=\"http://www.goodreads.com/series/265662\">The Graphic Novels</a>.</i>",
+                            "note": "1.1 and 1.2 is not the correct series numbering for books published in two parts. Either \"1, part 1\", \"1, part 1 of 2\" or \"1A\" are acceptable series numberings\n    Please do not add translations, so as to not annoy or confuse people. This page is for the main series.",
+                            "series_works_count": "21",
+                            "primary_work_count": "7",
+                            "numbered": "true"
+                        }
+                    }
+                },
+                "similar_books": {
+                    "book": [
+                        {
+                            "id": "862041",
+                            "uri": "kca://book/amzn1.gr.book.v1.qrxYGXntcLZpuZ8pLjt8Eg",
+                            "title": "Harry Potter Series Box Set (Harry Potter, #1-7)",
+                            "title_without_series": "Harry Potter Series Box Set",
+                            "link": "https://www.goodreads.com/book/show/862041.Harry_Potter_Series_Box_Set",
+                            "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1534298934l/862041._SX50_.jpg",
+                            "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1534298934l/862041._SX98_.jpg",
+                            "num_pages": "4100",
+                            "work": {
+                                "id": "2962492"
+                            },
+                            "isbn": "0545044251",
+                            "isbn13": "9780545044257",
+                            "average_rating": "4.57",
+                            "ratings_count": "52577",
+                            "publication_year": "2007",
+                            "publication_month": "10",
+                            "publication_day": "1",
+                            "authors": {
+                                "author": {
+                                    "id": "1077326",
+                                    "name": "J.K. Rowling",
+                                    "link": "https://www.goodreads.com/author/show/1077326.J_K_Rowling"
+                                }
+                            }
+                        },
+                        {
+                            "id": "30",
+                            "uri": "kca://book/amzn1.gr.book.v1.A4tVMTsgHW0VVpEpePVEUQ",
+                            "title": "J.R.R. Tolkien 4-Book Boxed Set: The Hobbit and The Lord of the Rings",
+                            "title_without_series": "J.R.R. Tolkien 4-Book Boxed Set: The Hobbit and The Lord of the Rings",
+                            "link": "https://www.goodreads.com/book/show/30.J_R_R_Tolkien_4_Book_Boxed_Set",
+                            "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1346072396l/30._SX50_.jpg",
+                            "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1346072396l/30._SX98_.jpg",
+                            "num_pages": "1728",
+                            "work": {
+                                "id": "89369"
+                            },
+                            "isbn": "0345538374",
+                            "isbn13": "9780345538376",
+                            "average_rating": "4.57",
+                            "ratings_count": "52577",
+                            "publication_year": "2012",
+                            "publication_month": "9",
+                            "publication_day": "25",
+                            "authors": {
+                                "author": {
+                                    "id": "656983",
+                                    "name": "J.R.R. Tolkien",
+                                    "link": "https://www.goodreads.com/author/show/656983.J_R_R_Tolkien"
+                                }
+                            }
+                        },
+                        {
+                            "id": "7938275",
+                            "uri": "kca://book/amzn1.gr.book.v1.6BhA2vj-L4UdRkLXCxuoBQ",
+                            "title": "The Hunger Games Trilogy Boxset (The Hunger Games, #1-3)",
+                            "title_without_series": "The Hunger Games Trilogy Boxset",
+                            "link": "https://www.goodreads.com/book/show/7938275-the-hunger-games-trilogy-boxset",
+                            "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360094673l/7938275._SY75_.jpg",
+                            "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360094673l/7938275._SX98_.jpg",
+                            "num_pages": "1155",
+                            "work": {
+                                "id": "11349083"
+                            },
+                            "isbn": "0545265355",
+                            "isbn13": "9780545265355",
+                            "average_rating": "4.57",
+                            "ratings_count": "52577",
+                            "publication_year": "2010",
+                            "publication_month": "8",
+                            "publication_day": "24",
+                            "authors": {
+                                "author": {
+                                    "id": "153394",
+                                    "name": "Suzanne Collins",
+                                    "link": "https://www.goodreads.com/author/show/153394.Suzanne_Collins"
+                                }
+                            }
+                        },
+                        {
+                            "id": "33",
+                            "uri": "kca://book/amzn1.gr.book.v1.ylWsItQmnc8IkYYxCItIJw",
+                            "title": "The Lord of the Rings (The Lord of the Rings, #1-3)",
+                            "title_without_series": "The Lord of the Rings",
+                            "link": "https://www.goodreads.com/book/show/33.The_Lord_of_the_Rings",
+                            "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1566425108l/33._SX50_.jpg",
+                            "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1566425108l/33._SX98_.jpg",
+                            "num_pages": "1216",
+                            "work": {
+                                "id": "3462456"
+                            },
+                            "isbn": null,
+                            "isbn13": null,
+                            "average_rating": "4.57",
+                            "ratings_count": "52577",
+                            "publication_year": "2005",
+                            "publication_month": "10",
+                            "publication_day": "12",
+                            "authors": {
+                                "author": {
+                                    "id": "656983",
+                                    "name": "J.R.R. Tolkien",
+                                    "link": "https://www.goodreads.com/author/show/656983.J_R_R_Tolkien"
+                                }
+                            }
+                        },
+                        {
+                            "id": "4700482",
+                            "uri": "kca://book/amzn1.gr.book.v1.X6exmwRKvtZxdukZGYAALg",
+                            "title": "A Game of Thrones: The Book of Ice and Fire RPG rulebook",
+                            "title_without_series": "A Game of Thrones: The Book of Ice and Fire RPG rulebook",
+                            "link": "https://www.goodreads.com/book/show/4700482-a-game-of-thrones",
+                            "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                            "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                            "num_pages": "302",
+                            "work": {
+                                "id": "4764795"
+                            },
+                            "isbn": "1894525744",
+                            "isbn13": "9781894525749",
+                            "average_rating": "4.57",
+                            "ratings_count": "52577",
+                            "publication_year": "2004",
+                            "publication_month": "9",
+                            "publication_day": "20",
+                            "authors": {
+                                "author": {
+                                    "id": "579649",
+                                    "name": "Simone Cooper",
+                                    "link": "https://www.goodreads.com/author/show/579649.Simone_Cooper"
+                                }
+                            }
+                        },
+                        {
+                            "id": "18337259",
+                            "uri": "kca://book/amzn1.gr.book.v1.egUhvMkPNOTpjeOWfF6R2Q",
+                            "title": "A Game of Thrones #1",
+                            "title_without_series": "A Game of Thrones #1",
+                            "link": "https://www.goodreads.com/book/show/18337259-a-game-of-thrones-1",
+                            "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1376738412l/18337259._SY75_.jpg",
+                            "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1376738412l/18337259._SX98_.jpg",
+                            "num_pages": "32",
+                            "work": {
+                                "id": "40783698"
+                            },
+                            "isbn": null,
+                            "isbn13": "9780345536150",
+                            "average_rating": "4.57",
+                            "ratings_count": "52577",
+                            "publication_year": "2011",
+                            "publication_month": "9",
+                            "publication_day": null,
+                            "authors": {
+                                "author": {
+                                    "id": "13557729",
+                                    "name": "Daniel Abraham",
+                                    "link": "https://www.goodreads.com/author/show/13557729.Daniel_Abraham"
+                                }
+                            }
+                        },
+                        {
+                            "id": "7932486",
+                            "uri": "kca://book/amzn1.gr.book.v1.KMTNGih_x_xEenNxycEh6w",
+                            "title": "The Wheel of time series by Robert Jordan (1-11)",
+                            "title_without_series": "The Wheel of time series by Robert Jordan",
+                            "link": "https://www.goodreads.com/book/show/7932486-the-wheel-of-time-series-by-robert-jordan",
+                            "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1319403857l/7932486._SX50_.jpg",
+                            "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1319403857l/7932486._SX98_.jpg",
+                            "num_pages": null,
+                            "work": {
+                                "id": "25377467"
+                            },
+                            "isbn": null,
+                            "isbn13": null,
+                            "average_rating": "4.57",
+                            "ratings_count": "52577",
+                            "publication_year": null,
+                            "publication_month": null,
+                            "publication_day": null,
+                            "authors": {
+                                "author": {
+                                    "id": "6252",
+                                    "name": "Robert Jordan",
+                                    "link": "https://www.goodreads.com/author/show/6252.Robert_Jordan"
+                                }
+                            }
+                        },
+                        {
+                            "id": "1111600",
+                            "uri": "kca://book/amzn1.gr.book.v1.hLYmmFt6xaj8qbAN4Rj7Sw",
+                            "title": "The Wheel of Time: Boxed Set  (Wheel of Time, #1-8)",
+                            "title_without_series": "The Wheel of Time: Boxed Set",
+                            "link": "https://www.goodreads.com/book/show/1111600.The_Wheel_of_Time",
+                            "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                            "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                            "num_pages": null,
+                            "work": {
+                                "id": "1098573"
+                            },
+                            "isbn": "0312875045",
+                            "isbn13": "9780312875046",
+                            "average_rating": "4.57",
+                            "ratings_count": "52577",
+                            "publication_year": null,
+                            "publication_month": null,
+                            "publication_day": null,
+                            "authors": {
+                                "author": {
+                                    "id": "6252",
+                                    "name": "Robert Jordan",
+                                    "link": "https://www.goodreads.com/author/show/6252.Robert_Jordan"
+                                }
+                            }
+                        },
+                        {
+                            "id": "10",
+                            "uri": "kca://book/amzn1.gr.book.v1.ieKY6z2QqceHoUcD-HYW3w",
+                            "title": "Harry Potter Collection (Harry Potter, #1-6)",
+                            "title_without_series": "Harry Potter Collection", "link": "https: //www.goodreads.com/book/show/10.Harry_Potter_Collection", "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328867351l/10._SX50_.jpg", "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328867351l/10._SX98_.jpg", "num_pages": "3342", "work": {"id": "21457570"}, "isbn": "0439827604", "isbn13": "9780439827607", "average_rating": "4.57", "ratings_count": "52577", "publication_year": "2005", "publication_month": "9", "publication_day": "12", "authors": {"author": {"id": "1077326", "name": "J.K. Rowling", "link": "https://www.goodreads.com/author/show/1077326.J_K_Rowling"}}}, {"id": "11706669", "uri": "kca://book/amzn1.gr.book.v1.7RIwM5rqjFldh4i3FZNtSg", "title": "The First Law Trilogy", "title_without_series": "The First Law Trilogy", "link": "https://www.goodreads.com/book/show/11706669-the-first-law-trilogy", "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1341090828l/11706669._SX50_.jpg", "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1341090828l/11706669._SX98_.jpg", "num_pages": "1600", "work": {"id": "19033302"}, "isbn": null, "isbn13": null, "average_rating": "4.57", "ratings_count": "52577", "publication_year": "2008", "publication_month": "9", "publication_day": null, "authors": {"author": {"id": "276660", "name": "Joe Abercrombie", "link": "https://www.goodreads.com/author/show/276660.Joe_Abercrombie"}}}, {"id": "18003107", "uri": "kca://book/amzn1.gr.book.v1.QPaOxZBuwO_XuXtD-lsbnA", "title": "Conn Iggulden Conqueror Series, 4 Books Collection (Empire of Silver, Bones of the Hills, Lords of the Bow, Wolf of the Plains)", "title_without_series": "Conn Iggulden Conqueror Series, 4 Books Collection", "link": "https://www.goodreads.com/book/show/18003107-conn-iggulden-conqueror-series-4-books-collection", "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1370077550l/18003107._SX50_.jpg", "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1370077550l/18003107._SX98_.jpg",
+                            "num_pages": null,
+                            "work": {
+                                "id": "25265874"
+                            },
+                            "isbn": null,
+                            "isbn13": null,
+                            "average_rating": "4.57",
+                            "ratings_count": "52577",
+                            "publication_year": null,
+                            "publication_month": null,
+                            "publication_day": null,
+                            "authors": {
+                                "author": {
+                                    "id": "119121",
+                                    "name": "Conn Iggulden",
+                                    "link": "https://www.goodreads.com/author/show/119121.Conn_Iggulden"
+                                }
+                            }
+                        },
+                        {
+                            "id": "5907",
+                            "uri": "kca://book/amzn1.gr.book.v1.7HhPxEJT1NiirAiej27XwA",
+                            "title": "The Hobbit, or There and Back Again",
+                            "title_without_series": "The Hobbit, or There and Back Again",
+                            "link": "https://www.goodreads.com/book/show/5907.The_Hobbit_or_There_and_Back_Again",
+                            "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546071216l/5907._SY75_.jpg",
+                            "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546071216l/5907._SX98_.jpg",
+                            "num_pages": "366",
+                            "work": {
+                                "id": "1540236"
+                            },
+                            "isbn": "0618260307",
+                            "isbn13": "9780618260300",
+                            "average_rating": "4.57",
+                            "ratings_count": "52577",
+                            "publication_year": "2002",
+                            "publication_month": "8",
+                            "publication_day": "15",
+                            "authors": {
+                                "author": {
+                                    "id": "656983",
+                                    "name": "J.R.R. Tolkien",
+                                    "link": "https://www.goodreads.com/author/show/656983.J_R_R_Tolkien"
+                                }
+                            }
+                        },
+                        {
+                            "id": "19248227",
+                            "uri": "kca://book/amzn1.gr.book.v1.Qd7AE7h2stowuh2VrV_W9Q",
+                            "title": "The Broken Empire Series (The Broken Empire, #1-2)",
+                            "title_without_series": "The Broken Empire Series",
+                            "link": "https://www.goodreads.com/book/show/19248227-the-broken-empire-series",
+                            "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                            "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                            "num_pages": null,
+                            "work": {
+                                "id": "58033604"
+                            },
+                            "isbn": null,
+                            "isbn13": null,
+                            "average_rating": "4.57",
+                            "ratings_count": "52577",
+                            "publication_year": null,
+                            "publication_month": null,
+                            "publication_day": null,
+                            "authors": {
+                                "author": {
+                                    "id": "4721536",
+                                    "name": "Mark  Lawrence",
+                                    "link": "https://www.goodreads.com/author/show/4721536.Mark_Lawrence"
+                                }
+                            }
+                        },
+                        {
+                            "id": "5092",
+                            "uri": "kca://book/amzn1.gr.book.v1.az4ADymZ-Aqf3NvWNcsxZg",
+                            "title": "Dark Tower Boxed Set",
+                            "title_without_series": "Dark Tower Boxed Set",
+                            "link": "https://www.goodreads.com/book/show/5092.Dark_Tower_Boxed_Set",
+                            "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1432377629l/5092._SX50_.jpg",
+                            "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1432377629l/5092._SX98_.jpg",
+                            "num_pages": null,
+                            "work": {
+                                "id": "6309704"
+                            },
+                            "isbn": "0451211243",
+                            "isbn13": "9780451211248",
+                            "average_rating": "4.57",
+                            "ratings_count": "52577",
+                            "publication_year": "2003",
+                            "publication_month": "10",
+                            "publication_day": "7",
+                            "authors": {
+                                "author": {
+                                    "id": "3389",
+                                    "name": "Stephen King",
+                                    "link": "https://www.goodreads.com/author/show/3389.Stephen_King"
+                                }
+                            }
+                        },
+                        {
+                            "id": "13",
+                            "uri": "kca://book/amzn1.gr.book.v1.ubWyA90qbGfTQjOvsAqckg",
+                            "title": "The Ultimate Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1-5)",
+                            "title_without_series": "The Ultimate Hitchhiker's Guide to the Galaxy",
+                            "link": "https://www.goodreads.com/book/show/13.The_Ultimate_Hitchhiker_s_Guide_to_the_Galaxy",
+                            "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1404613595l/13._SY75_.jpg",
+                            "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1404613595l/13._SX98_.jpg",
+                            "num_pages": "815",
+                            "work": {
+                                "id": "135328"
+                            },
+                            "isbn": "0345453743",
+                            "isbn13": "9780345453747",
+                            "average_rating": "4.57",
+                            "ratings_count": "52577",
+                            "publication_year": "2002",
+                            "publication_month": "4",
+                            "publication_day": "28",
+                            "authors": {
+                                "author": {
+                                    "id": "4",
+                                    "name": "Douglas Adams",
+                                    "link": "https://www.goodreads.com/author/show/4.Douglas_Adams"
+                                }
+                            }
+                        },
+                        {
+                            "id": "17383994",
+                            "uri": "kca://book/amzn1.gr.book.v1._GVOg-YwDj9q3UDBnKu1gw",
+                            "title": "Divergent Series Complete Box Set (Divergent, #1-3)",
+                            "title_without_series": "Divergent Series Complete Box Set",
+                            "link": "https://www.goodreads.com/book/show/17383994-divergent-series-complete-box-set",
+                            "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1372682053l/17383994._SX50_.jpg",
+                            "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1372682053l/17383994._SX98_.jpg",
+                            "num_pages": "1556",
+                            "work": {
+                                "id": "27356672"
+                            },
+                            "isbn": "0062278789",
+                            "isbn13": "9780062278784",
+                            "average_rating": "4.57",
+                            "ratings_count": "52577",
+                            "publication_year": "2013",
+                            "publication_month": "10",
+                            "publication_day": "22",
+                            "authors": {
+                                "author": {
+                                    "id": "4039811",
+                                    "name": "Veronica Roth",
+                                    "link": "https://www.goodreads.com/author/show/4039811.Veronica_Roth"
+                                }
+                            }
+                        }
+                    ]
+                }
+            }
+        }
+    }
