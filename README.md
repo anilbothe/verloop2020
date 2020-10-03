@@ -33,7 +33,7 @@ $ manage.py runserver
  - GET method recieve all Saved Request records
  - POST method require to pass sample json
 
-## My Temporary Api_Key
+## Sample URLs - Pass into POST method.
 - { "book_url": "https://www.goodreads.com/book/show/12177850.xml?key=6mM5giON9W4CYjn1EKIA"} # working
 - { "book_url": "https://www.goodreads.com/book/show/12067.xml?key=6mM5giON9W4CYjn1EKIA"}   # working
 - { "book_url": "https://www.gooreads.com/book/show/22034.xml?key=6mM5giON9W4CYjn1EKIA"} # invalidURL
