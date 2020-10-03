@@ -34,8 +34,8 @@ $ manage.py runserver
  - POST method require to pass sample json
 
 ## My Temporary Api_Key
-- 1. { "book_url": "https://www.goodreads.com/book/show/12177850.xml?key=6mM5giON9W4CYjn1EKIA"}
-- 2. { "book_url": "https://www.goodreads.com/book/show/12067.xml?key=6mM5giON9W4CYjn1EKIA"}
-- 3. { "book_url": "https://www.gooreads.com/book/show/22034.xml?key=6mM5giON9W4CYjn1EKIA"} # invalidURL
-- 4. { "book_url": "https://www.goodreads.com/book/show/3577922658.xml?key=6mM5giON9W4CYjn1EKIA"} # error
+- { "book_url": "https://www.goodreads.com/book/show/12177850.xml?key=6mM5giON9W4CYjn1EKIA"} # working
+- { "book_url": "https://www.goodreads.com/book/show/12067.xml?key=6mM5giON9W4CYjn1EKIA"}   # working
+- { "book_url": "https://www.gooreads.com/book/show/22034.xml?key=6mM5giON9W4CYjn1EKIA"} # invalidURL
+- { "book_url": "https://www.goodreads.com/book/show/3577922658.xml?key=6mM5giON9W4CYjn1EKIA"} # error
 
