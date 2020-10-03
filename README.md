@@ -1,5 +1,8 @@
 # verloop2020
 
+  - This Project/Assignment can be solved by single python file => *VeloopChallenge.py*
+  - *VeloopChallenge.py* this file include main logic
+  - But I made by using Django
   - Just download and install packages from requirements.txt
   - And Run project :)
 
@@ -29,7 +32,8 @@ $ manage.py runserver
     |___ manage.py
  
 # docs
-
+ 
+ - To see Demo  ->  [click here](http://anilb.pythonanywhere.com/) 
  - GET method recieve all Saved Request records
  - POST method require to pass sample json
 
