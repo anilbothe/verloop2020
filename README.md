@@ -8,6 +8,8 @@
 
 # Demo
  - To see Demo  ->  [click here](http://anilb.pythonanywhere.com/) 
+ - Admin username & password is => _admin_
+ - And Admin url -> [http://anilb.pythonanywhere.com/admin](http://anilb.pythonanywhere.com/admin) 
 
 How to run :
 ```sh
